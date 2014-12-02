@@ -1,3 +1,27 @@
+SpeedySalami:RariSafari.github.io RariSafari$ y
+-bash: y: command not found
+SpeedySalami:RariSafari.github.io RariSafari$
+SpeedySalami:RariSafari.github.io RariSafari$ mv -i ~/Downloads/leadWithBib.html ~/Documents/RariSafari.github.io/lead.html
+overwrite /Users/RariSafari/Documents/RariSafari.github.io/lead.html? (y/n [n]) y
+SpeedySalami:RariSafari.github.io RariSafari$ y
+-bash: y: command not found
+SpeedySalami:RariSafari.github.io RariSafari$ mv -i ~/Downloads/leadWithBib.html ~/Documents/RariSafari.github.io/lead.html
+mv: /Users/RariSafari/Downloads/leadWithBib.html: No such file or directory
+SpeedySalami:RariSafari.github.io RariSafari$
+SpeedySalami:RariSafari.github.io RariSafari$
+SpeedySalami:RariSafari.github.io RariSafari$
+SpeedySalami:RariSafari.github.io RariSafari$ mv -i ~/Downloads/leadWithBib.html ~/Documents/RariSafari.github.io/lead.html
+mv: /Users/RariSafari/Downloads/leadWithBib.html: No such file or directory
+SpeedySalami:RariSafari.github.io RariSafari$ mv -i ~/Downloads/leadWithBib.html ~/Documents/RariSafari.github.io/lead.html
+mv: /Users/RariSafari/Downloads/leadWithBib.html: No such file or directory
+SpeedySalami:RariSafari.github.io RariSafari$ ls ~/Documents/
+10%timeshare.dmRariSafari.github.io
+About Stacks.lpdfRose-Flower_www-free-wall-paper-com-28.jpg
+How to Give a Standard Poodle Dog a Bath _ eHow.pdfTable of Weights - Google Drive.pdf
+Invitations, Free eCards and Party Planning Ideas from Evite.pdfUntitled.rtf
+LearningPythonclifford.jpg
+Plant Presentation.rtfcolonial report - conclusion - Google Docs.pdf
+SpeedySalami:RariSafari.github.io RariSafari$ 
 <!DOCTYPE html>
 <html>
   <head>
